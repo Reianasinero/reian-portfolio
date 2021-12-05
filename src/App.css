@@ -1,0 +1,10 @@
+.Container {
+    width: 40%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: #040319;
+}
