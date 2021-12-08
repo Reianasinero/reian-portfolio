@@ -10,38 +10,46 @@
     border-radius: 10px;
 }
 
+.title-and-sub {
+    text-align: center;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 .title-text {
     margin: 0px;
-    margin-top: 50px;
+    margin-left: auto !important;
+    margin-right: auto !important;
     position: relative;
     font-family: 'Archivo Black', sans-serif;
     font-size: 3rem;
-    margin-left: 30px;
     color: black;
+    display: inline;
 }
 
 .subtitle-text {
+    margin-left: auto !important;
+    margin-right: auto !important;
     font-size: 1rem;
+    display: inline;
     color: black;
     position: relative;
     font-family: 'Abel', sans-serif;
     margin: 5px;
-    margin-left: 30px;
     margin-top: 0px !important;
 }
 
 .my-portrait {
-    position: absolute;
     width: 200px;
-    right: 100px;
     top: 15px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 .paragraph-aboutMe {
     margin-top: 50px !important;
-    margin: 30px;
-    font-family: 'Rubik', sans-serif;
+    margin: 60px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-indent: 40px;
 }

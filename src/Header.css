@@ -3,7 +3,7 @@
 .Header {
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+    width: 350px;
     height: 60px;
     background-color: white;
     position: relative;
@@ -14,13 +14,13 @@
 
 .header-links {
     position: relative;
-    text-align: center;
-    margin-right: 40px;
     padding-top: 12px;
 }
 
 li {
     display: inline-block;
+    margin-right: 3px;
+    margin-left: 3px;
     padding: 9px;
     font-family: 'Baloo Bhaijaan 2', cursive;
     font-size: 1rem;

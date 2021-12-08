@@ -6,10 +6,10 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      <div className="Container">
-        <Header />
-        <Title />
-      </div>
+      <Header />
+        <div className="Container">
+          <Title />
+        </div>
     </div>
   )
 }
