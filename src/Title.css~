@@ -70,5 +70,5 @@
 
 .bio-date {
 	margin: 30px;
-	margin-right: 40px !important;
+	margin-right: 50px;
 }

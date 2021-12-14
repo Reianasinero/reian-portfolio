@@ -8,18 +8,6 @@ function Title() {
             <img className="my-portrait" src={logo} alt="My Portrait" />
             <h1 className="title-text">Reian Asiñero</h1>
             <h3 className="subtitle-text">Front-End Web Developer | Photographer | Graphic Designer</h3>
-		<ul className="bio-date">
-	    		<li>
-	    			<h3 className="date-year">2000</h3>
-	    			<p className="bio-text">Born August 7 in Malaybalay City, Bukidnon.</p>
-	    		</li>
-	    		<li>
-				<h3 className="date-year">2019</h3>
-	    			<p className="bio-text">Graduated High School at Bukidnon National High School with NCII Computer Systems Servicing.
-	    			</p>
-	    		</li>
-	    		<li></li>
-	    	</ul>
         </div>
     )
 }

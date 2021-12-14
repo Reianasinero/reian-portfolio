@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+.date-year {
+	display: inline;
+	position: relative;
+	margin-right: 10px;
+	font-family: 'Roboto Mono', monospace;
+}
+
+.bio-text {
+	font-family: 'Roboto Mono', monospace;
+	position: relative;
+	display: inline;
+}
+
+.bio-date {
+	margin: 30px;
+	margin-right: 50px;
+}
