@@ -13,6 +13,6 @@
 }
 
 .bio-date {
-	margin: 20px;
-	margin-right: 60px !important;
+	margin: 30px;
+	margin-right: 50px !important;
 }
