@@ -25,7 +25,7 @@ function Bio() {
 	
 		<li>
 	   	<h3 className="date-year">2021 - </h3>
-	    	<p className="bio-text">Started learning about Web Programming by my self.
+	    	<p className="bio-text">Started learning about Graphic Design and Web Programming by my self.
 		</p>
 		</li>
 	</ul>

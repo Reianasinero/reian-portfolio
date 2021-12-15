@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro&display=swap');
+h1 {
+	font-family: 'Archivo Black', sans-serif;
+}
+
+.works {
+	padding-left: 30px;
+	margin-top: 50px;
+}
+
+.insta-about {
+	display: flex;
+}
+
+.photography-text {
+	margin-top: 5px;
+	position: relative;
+	margin-left: 30px;
+	font-family: 'Readex Pro', sans-serif;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: orange;
+}
+
+.me-with-cam {
+	width: 300px;
+	position: relative;
+	float: right;
+	margin: 0;
+}

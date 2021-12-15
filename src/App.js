@@ -3,6 +3,7 @@ import Header from './Header.js';
 import React from 'react';
 import './App.css';
 import Bio from './Bio.js';
+import Works from './Works.js';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <div className="Container">
           <Title />
 	  <Bio />
+	  <Works />
         </div>
     </div>
   )

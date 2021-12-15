@@ -1,7 +1,9 @@
 import Title from './Title.js';
 import Header from './Header.js';
 import React from 'react';
-import './App.css'
+import './App.css';
+import Bio from './Bio.js';
+import Work from './Work.js';
 
 function App() {
   return (
@@ -10,6 +12,7 @@ function App() {
         <div className="Container">
           <Title />
 	  <Bio />
+	  <Work />
         </div>
     </div>
   )
